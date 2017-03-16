@@ -15,7 +15,7 @@ hideaway() {
   while [[ "$COUNT" -lt 3 ]]; do
     printf "\033c"
     printf "=======================================================================\n"
-    printf "Choose three of the following for your hiding places----\n" #TODO: That sounds so lame! I have to change that.
+    printf "Decide which three directories you would like to hide within----\n" #TODO: That sounds so lame! I have to change that. not too lame, but how's that?
     printf "=======================================================================\n"
     #TODO: What are we calling these "things" we're putting in the directories?
     #TODO: Discuss which directories we wish to use.
